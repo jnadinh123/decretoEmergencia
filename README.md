@@ -1,0 +1,2 @@
+# decretoEmergencia
+Cargar imagenes
